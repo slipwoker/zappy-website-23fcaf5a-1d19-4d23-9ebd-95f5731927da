@@ -1,0 +1,106 @@
+# Yossi — Generative Engine Optimization Map
+
+> A talented epoxy resin artist who creates a wide variety of handcrafted pieces including human figurines, cars, animals, and virtually anything imaginable. The work spans diverse subjects and forms, showcasing versatility and craftsmanship in resin art. The artist is looking to sell their creations online through a dedicated e-commerce platform that highlights the uniqueness and variety of their artistic portfolio.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים לעולם האמנות של יוסי! יצירות שרף אפוקסי ייחודיות בעבודת יד — פסלי אנשים, מכוניות, בעלי חיים ועוד. אמנות ומלאכה ברמה הגבוהה ביותר, זמינה עכשיו לרכישה!
+
+### תיק עבודות
+https://example.com/portfolio
+תיק העבודות של יוסי מציג מגוון עשיר של יצירות אפוקסי מרהיבות — דמויות אנושיות, רכבים, בעלי חיים ועוד. כל פריט הוא יצירת מופת ייחודית. גלה את הקולקציה המלאה ומצא את האמנות שתשלים את חייך!
+
+### אודות
+https://example.com/about
+יוסי הוא אמן שרף אפוקסי מוכשר עם תשוקה עמוקה ליצירה ולמלאכת יד. גלה את הסיפור שמאחורי כל יצירה, את הטכניקות הייחודיות ואת החזון האמנותי שהופך חומרים פשוטים לאמנות מרהיבה!
+
+### צור קשר
+https://example.com/contact
+רוצה להזמין יצירה מיוחדת או לשאול על fall arts and crafts? צור קשר עם יוסי עוד היום! כל יצירה מותאמת אישית ומיוצרת בשבילך. אל תפספס את ההזדמנות להחזיק יצירת מופת אמיתית בביתך!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Yossi
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Yossi
+
+### Category
+https://example.com/category/:slug
+מוצרים - Yossi
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Yossi
+A talented epoxy resin artist who creates a wide variety of handcrafted pieces including human figurines, cars, animals, and virtually anything imaginable. The work spans diverse subjects and forms, showcasing versatility and craftsmanship in resin art. The artist is looking to sell their creations online through a dedicated e-commerce platform that highlights the uniqueness and variety of their artistic portfolio.
+
+## Services/Products
+- דמויות של אנשים
+- מכוניות
+- חיות
+- יצירות אמנות מאפוקסי שרף
+
+## Target Audience
+- אספני אמנות
+- מעצבי פנים
+- חובבי עיצוב הבית
+
+## Industry
+Art & Crafts
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
