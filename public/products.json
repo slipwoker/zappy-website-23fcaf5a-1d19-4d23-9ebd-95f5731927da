@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-17T02:15:46.724Z",
+  "generated_at": "2026-05-17T03:02:37.475Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "9f26e5fd-449f-4cd4-a4a9-20ae2d609286",
+      "slug": "psl-mkvnyt-krystl-bhzmnh-ayshyt-toyota-gr-supra-9neqbp",
+      "name": "פסל מכונית קריסטל בהזמנה אישית — Toyota GR Supra",
+      "name_translations": {},
+      "description": "<p><br></p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 750,
+      "base_price": 750,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1778985946989-qreux.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/psl-mkvnyt-krystl-bhzmnh-ayshyt-toyota-gr-supra-9neqbp",
+      "categories": [],
+      "updated_at": "2026-05-17T02:45:57.767Z"
+    }
+  ]
 }

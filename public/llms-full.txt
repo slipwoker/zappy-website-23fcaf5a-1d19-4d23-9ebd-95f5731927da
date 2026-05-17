@@ -2432,7 +2432,10 @@ Description: רוצה להזמין יצירה מיוחדת או לשאול על 
 
 מדיניות פרטיות
 |
-תנאי שימוש
+תנאי שימוש  |
+
+מדיניות החזרות
+
 |
 נגישות
 |
@@ -6090,6 +6093,15 @@ Yossi מספקת Art & Crafts דרך האתר. השירותים כפופים ל�
 נגישות
 |
 נוצר באמצעות Zappy
+
+---
+
+## Product Catalog
+
+### פסל מכונית קריסטל בהזמנה אישית — Toyota GR Supra
+URL: https://example.com/product/psl-mkvnyt-krystl-bhzmnh-ayshyt-toyota-gr-supra-9neqbp
+Price: 750.00 ILS
+Availability: In stock
 
 ---
 

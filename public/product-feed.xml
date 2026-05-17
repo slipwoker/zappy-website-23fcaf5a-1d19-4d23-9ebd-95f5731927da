@@ -4,6 +4,18 @@
     <title>Yossi</title>
     <link>https://example.com</link>
     <description>Product feed for Yossi</description>
-    <lastBuildDate>Sun, 17 May 2026 02:15:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 03:02:37 GMT</lastBuildDate>
+    <item>
+      <g:id>9f26e5fd-449f-4cd4-a4a9-20ae2d609286</g:id>
+      <g:title>פסל מכונית קריסטל בהזמנה אישית — Toyota GR Supra</g:title>
+      <g:description></g:description>
+      <g:link>https://example.com/product/psl-mkvnyt-krystl-bhzmnh-ayshyt-toyota-gr-supra-9neqbp</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1778985946989-qreux.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>750.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Yossi</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

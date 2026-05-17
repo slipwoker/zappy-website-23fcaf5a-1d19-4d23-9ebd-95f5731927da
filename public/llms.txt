@@ -72,7 +72,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### פסל מכונית קריסטל בהזמנה אישית — Toyota GR Supra
+https://example.com/product/psl-mkvnyt-krystl-bhzmnh-ayshyt-toyota-gr-supra-9neqbp
+- Price: 750.00 ILS
+- Availability: In stock
+- Image: https://example.com/assets/product-enhanced-1778985946989-qreux.webp
 
 ---
 

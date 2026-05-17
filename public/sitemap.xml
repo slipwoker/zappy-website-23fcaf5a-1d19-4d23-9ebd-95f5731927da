@@ -90,4 +90,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>https://example.com/product/psl-mkvnyt-krystl-bhzmnh-ayshyt-toyota-gr-supra-9neqbp</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
